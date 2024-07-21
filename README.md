@@ -17,4 +17,4 @@
    <h2>💻 Coding Projects </h2>
 
 - <b>Java Project</b>
-  - [Penn State Final Project - IST 240 (Creating a game in Java)](place link in here)
+  - [Penn State Final Project - IST 240 (Creating a game in Java)](https://github.com/Denwawa/Group5-Final-Project)
