@@ -7,7 +7,7 @@
 - <b>Hyperproof Compliance Platform</b>
   - [Hyperproof Compliance and automation](place link to project here)
 - <b>Implementing a SOC and Honeynet in Azure</b>
-  - [Azure Sentinel and Honeynet](insert link here)
+  - [Azure Sentinel and Honeynet](https://github.com/Denwawa/AzureSentinel)
  
   <h2>ℹ️🖥️ Information and Technology Projects </h2>
 
