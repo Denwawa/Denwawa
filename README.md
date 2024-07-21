@@ -9,7 +9,12 @@
 - <b>Implementing a SOC and Honeynet in Azure</b>
   - [Azure Sentinel and Honeynet](insert link here)
  
-  <h2>🖥️ Information and Technology Projects </h2>
+  <h2>ℹ️🖥️ Information and Technology Projects </h2>
 
 - <b>Creating Active Directory Server on Oracle Virtual Box</b>
   - [DC Server on Oracle Virtual Box](place link in here)
+
+   <h2>💻 Coding Projects </h2>
+
+- <b>Java Project</b>
+  - [Penn State Final Project - IST 240 (Creating a game in Java)](place link in here)
