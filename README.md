@@ -7,7 +7,14 @@
 
 - <b>Implementing a SOC and Honeynet in Azure</b>
   - [Azure Sentinel and Honeynet](https://github.com/Denwawa/AzureSentinel)
- 
+
+ - <b>Implementing a SOC and Honeynet in Azure</b>
+   - Conducted a thorough analysis of the organization's data protection needs and regulatory compliance requirements.
+     
+   - Implemented customized DLP rules to prevent data breaches and unauthorized data sharing across Microsoft 365 services, including Exchange Online, SharePoint Online, and OneDrive for Business.
+     
+   - Monitored and fine-tuned DLP policies based on incident reports and feedback to continuously improve data protection measures.
+     
 <h2>💻 Coding Projects </h2>
 
 - <b>Java Project</b>
