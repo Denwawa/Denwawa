@@ -18,4 +18,4 @@
 
 - <b>Creating Active Directory Server on Oracle Virtual Box</b>
 
-- <b><Hardening SonicWall Firewall and implementing TOTP for SSL VPNx</b>
+- <b>SonicWall Firewall Hardening</b>
