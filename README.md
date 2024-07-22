@@ -4,8 +4,7 @@
 
 - <b>Nessus Vulnerability Management and Remediation through Intune</b>
   - [Nessus and Intune Implementation](place link to project here)
-- <b>Hyperproof Compliance Platform</b>
-  - [Hyperproof Compliance and automation](place link to project here)
+
 - <b>Implementing a SOC and Honeynet in Azure</b>
   - [Azure Sentinel and Honeynet](https://github.com/Denwawa/AzureSentinel)
  
