@@ -3,7 +3,7 @@
 <h2>🔐 Cyber Security Projects </h2>
 
 - <b>Nessus Vulnerability Management and Remediation through Intune</b>
-  - [Nessus Vulnerability Management](https://github.com/Denwawa/NessusProject/tree/main)
+  - [Nessus Vulnerability Management and Remediation Process](https://github.com/Denwawa/NessusProject/tree/main)
 
 - <b>Implementing a SOC and Honeynet in Azure</b>
   - [Azure Sentinel and Honeynet](https://github.com/Denwawa/AzureSentinel)
