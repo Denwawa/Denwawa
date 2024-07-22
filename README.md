@@ -8,7 +8,7 @@
 - <b>Implementing a SOC and Honeynet in Azure</b>
   - [Azure Sentinel and Honeynet](https://github.com/Denwawa/AzureSentinel)
 
- - <b>Implementing a SOC and Honeynet in Azure</b>
+ - <b> Hyperproof and DLP Policies through Microsoft Purview </b>
    - Conducted a thorough analysis of the organization's data protection needs and regulatory compliance requirements.
      
    - Implemented customized DLP rules to prevent data breaches and unauthorized data sharing across Microsoft 365 services, including Exchange Online, SharePoint Online, and OneDrive for Business.
